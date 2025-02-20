@@ -1,1 +1,38 @@
-/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(122, 159, 173);
+}
+h1{
+    color: rgb(49, 197, 150);
+}
+h3{
+    color: aliceblue;
+    background-color: rgba(178, 25, 102, 0.872);
+}
+
+.hero {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background: #1a90b0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin: 10px;
+}
+
+.button:hover {
+    background: #00ff99;
+}

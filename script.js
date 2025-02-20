@@ -1,4 +1,4 @@
-//creat Array for the subjects, actions and objects
+//create Array for the subjects, actions and objects
 const subjects = ["Iron Man", "Thor", "Captain America", "Hulk", "Black Widow"];
 const actions = ["fights against", "teams up with", "defends", "rescues", "takes down"];
 const objects = ["Thanos", "Ultron", "the Chitauri army", "Hydra agents", "a giant robot"];
